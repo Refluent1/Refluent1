@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Refluent1
-- 👀 I’m interested in coding in JavaScript, HTML/CSS, and C++
+- 👀 I’m interested in coding in JavaScript, HTML/CSS, Swift, and C++
 - 🌱 I’m currently learning C++ as to better understand how to use an Arduino Uno
 
 
